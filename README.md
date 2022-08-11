@@ -1,3 +1,6 @@
 ## Hostel Management - Group 1 - SWP391
 
-## Nhom minh lam hostel ne11
+## Hostel management with Spring boot
+
+##TOOL: IntelliJ IDEA 2022.1.1, MSSQL Sever 2019.
+
